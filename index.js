@@ -2,4 +2,4 @@ let element = document.createElement('div')
 
 main.remove();
 
-let newHeader = document.getElementById("h1#victory");
+let newHeader = document.createElement("h1#victory");
